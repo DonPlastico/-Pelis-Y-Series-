@@ -16,4 +16,4 @@ Todo se guarda de forma automática y segura, y nuestra base de datos se actuali
 ¿Te encanta llevar un seguimiento de todo lo que ves? ¿Quieres compartir tu progreso y tus gustos con amigos? Con PELIS Y SERRIES, cada película o serie cuenta. ¡Empieza hoy mismo a organizar tu universo audiovisual!
 
 <h1>Fotos</h1>
-![image](https://github.com/user-attachments/assets/43df7e96-35b3-48b3-ab0c-831dc966ce86)
+![image](https://github.com/user-attachments/assets/5d5629db-a823-46de-910d-d44b9138eaf4)
