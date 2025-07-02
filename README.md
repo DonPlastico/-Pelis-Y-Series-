@@ -1,19 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description"
-        content="Pelis y Series: Tu espacio personal para un control total de tus películas y series vistas. Registra, valora, organiza favoritos, consulta estadísticas de visualización y descubre los últimos estrenos. ¡Tu experiencia cinematográfica completa!">
-
-    <link rel="icon" type="image/jpg" href="../public/logo.jpg">
-
-    <title>🍿 Pelis Y Series 🍿</title>
-    <link rel="stylesheet" href="/css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-</head>
-
 <body>
     <header>
         <h1>Mis Películas y Series</h1>
