@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-
-<body>
-    <header>
-        <h1>Mis Películas y Series</h1>
-        <div class="search-box">
-            <input type="text" id="searchInput" placeholder="Buscar...">
-            <button id="searchButton">🔍</button>
-        </div>
-    </header>
-
-    <main>
-        <section class="description-section">
-            <p>
+    <p>
                 Bienvenido a <strong>Pelis y Series</strong>, tu espacio personal definitivo para llevar un control
                 total de todo lo
                 que ves. Esta es una plataforma interactiva que se actualiza constantemente con las últimas películas y
@@ -44,38 +30,3 @@
                 organizar tu universo
                 audiovisual!
             </p>
-        </section>
-        <div id="results" class="movie-grid"></div>
-        <div id="loading" class="loading-indicator">
-            <div class="loader"></div>
-            <p>Cargando más contenido...</p>
-        </div>
-    </main>
-
-    <footer class="main-footer">
-        <div class="footer-item">
-            <i class="fa-solid fa-tv"></i>
-            <span>Series</span>
-        </div>
-        <div class="footer-item">
-            <i class="fa-solid fa-film"></i>
-            <span>Películas</span>
-        </div>
-        <div class="footer-item active">
-            <i class="fa-solid fa-house"></i>
-            <span>Inicio</span>
-        </div>
-        <div class="footer-item">
-            <i class="fa-solid fa-compass"></i>
-            <span>Explorar</span>
-        </div>
-        <div class="footer-item">
-            <i class="fa-solid fa-user-clock"></i>
-            <span>Perfil</span>
-        </div>
-    </footer>
-
-    <script src="/js/script.js"></script>
-</body>
-
-</html>
